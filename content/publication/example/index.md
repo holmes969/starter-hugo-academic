@@ -7,7 +7,7 @@ abstract: >-
 
 
   In this paper, we demonstrate that path sampling techniques developed for forward rendering can become inefficient for differentiable rendering of glossy materials---especially when estimating derivatives with respect to global scene geometries. To address this problem, we introduce antithetic sampling of BSDFs and light-transport paths, allowing significantly faster convergence and can be easily integrated into existing differentiable rendering pipelines. We validate our method by comparing our derivative estimates to those generated with existing unbiased techniques. Further, we demonstrate the effectiveness of our technique by providing equal-quality and equal-time comparisons with existing sampling methods.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -28,15 +28,14 @@ title: Antithetic Sampling for Monte Carlo Differentiable Rendering
 doi: ""
 featured: false
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 date: 2022-07-11T16:55:59.067Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
