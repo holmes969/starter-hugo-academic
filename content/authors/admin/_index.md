@@ -1,6 +1,6 @@
 ---
 title: Cheng Zhang
-role: Research scientist Meta Reality Labs
+role: Research Scientist
 avatar_filename: profile_2.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Meta Reality Labs
+    url: https://about.facebook.com/realitylabs/
 education:
   courses:
     - course: PhD in Artificial Intelligence
