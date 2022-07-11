@@ -22,13 +22,13 @@ organizations:
     url: https://about.facebook.com/realitylabs/
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Ph.D. in Computer Science
       institution: University of California Irvine
       year: 2022
-    - course: MS in Computer Science
+    - course: M.S. in Computer Science
       institution: Columbia University in the City of New York
       year: 2017
-    - course: BE in Electrical Engineering
+    - course: B.E. in Electrical Engineering
       institution: Beijing University of Technology
       year: 2015
 email: ""
