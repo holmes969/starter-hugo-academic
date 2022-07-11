@@ -26,7 +26,7 @@ url_source: ""
 url_video: ""
 title: Antithetic Sampling for Monte Carlo Differentiable Rendering
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - example
