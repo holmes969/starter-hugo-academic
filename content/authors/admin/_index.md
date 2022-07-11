@@ -22,15 +22,15 @@ organizations:
     url: https://about.facebook.com/realitylabs/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: University of California Irvine
+      year: 2022
+    - course: MS in Computer Science
+      institution: Columbia University in the City of New York
+      year: 2017
+    - course: BE in Electrical Engineering
+      institution: Beijing University of Technology
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
